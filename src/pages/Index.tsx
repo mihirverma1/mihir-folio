@@ -7,7 +7,7 @@ const resumeUrl = "/uploads/55257577-6bf6-40a9-9314-f78effb35ae9.png";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background text-foreground">
+    <div className="fixed top-0 w-full min-h-screen bg-background text-foreground">
       <header className="border-b border-border/60">
         <div className="container py-6 flex items-center justify-between">
           <div className="flex items-center gap-2">
